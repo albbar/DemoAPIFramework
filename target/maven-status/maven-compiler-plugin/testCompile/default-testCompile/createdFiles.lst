@@ -1,0 +1,4 @@
+org\example\AppTest.class
+runners\TestRunner.class
+stepDefinitions\Hooks.class
+stepDefinitions\PlaceValidationStepDefinition.class
